@@ -1,0 +1,15 @@
+{
+  "name": "flow-http-server-express",
+  "version": "1.0.0",
+  "description": "Repository to reproduce https://github.com/facebook/flow/issues/5113",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run flow",
+    "flow": "flow"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "flow-bin": "0.64.0"
+  }
+}
